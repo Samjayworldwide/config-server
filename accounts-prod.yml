@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related prod APIs"
+  message: "Welcome to EazyBank accounts related production APIs"
   contactDetails:
     name: "Onyeka Obike - product owner"
     email: "{cipher}5602ab23db47850cf3d4178d715377a29fc695c5beb4d286405c7b82596cba11a627c39cf76f660fe4d8b3c11127dc9e"
