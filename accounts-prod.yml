@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs"
   contactDetails:
     name: "Onyeka Obike - product owner"
-    email: "onyekaobike@gmail.com"
+    email: "{cipher}5602ab23db47850cf3d4178d715377a29fc695c5beb4d286405c7b82596cba11a627c39cf76f660fe4d8b3c11127dc9e"
   onCallSupport:
     - (+234)8024789526
     - (+234)8101022632
